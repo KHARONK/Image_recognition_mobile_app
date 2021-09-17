@@ -1,1 +1,1 @@
-Adinkra backend
+Adinkra mobile (react native)
